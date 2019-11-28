@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(252, 247, 247);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 40pt;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+hr {
+    size: .5px;
+    width: 90%;
+    color: black;
+    padding: 0
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: 11pt;
+    padding: 0px
+}
+
+li {
+    display: inline-block;
+    padding: 0px 15px;
+}
